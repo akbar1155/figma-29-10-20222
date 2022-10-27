@@ -1,19 +1,18 @@
+header {
+}
 .d1 {
   width: 1250px;
   margin: 0 auto;
   display: flex;
 }
-
 .d2 {
   padding-left: 600px;
   color: white;
 }
-
 a {
   padding: 25px;
   padding-top: 15px;
 }
-
 header {
   background-color: #0a2640;
 }
@@ -23,4 +22,8 @@ header {
   color: black;
   background-color: white;
   height: 35px;
-}/*# sourceMappingURL=main.css.map */
+  height: 15px;
+  text-align: center;
+  padding-top: 50px;
+  
+}
